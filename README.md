@@ -9,7 +9,9 @@ torres_creole_word_list.csv - https://www.data.qld.gov.au/dataset/slq-aboriginal
 
 torres_creole_word_list_asjp.csv - https://asjp.clld.org/languages/TORRES_STRAIT_CREOLE
 
-### Pijin: 
+### Pijin:  
+
+Pijin_100.csv - https://pineapplepost.wordpress.com/2015/08/25/solomon-pijin-sotkats-sms-net-chat-slang-words-and-abbreviations/
 
 
 ### Bislama:
