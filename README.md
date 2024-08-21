@@ -5,6 +5,8 @@ For all asjp data - https://asjp.clld.org/languages
 ### Tok Pisin: 
 tok_pisin_asjp.csv
 
+tok_pisin_word_list.csv - https://en.wikibooks.org/wiki/Tok_Pisin/Dictionary
+
 ### Torres Straight Creole:
 torres_creole_word_list.csv - https://www.data.qld.gov.au/dataset/slq-aboriginal-languages-word-lists/resource/9229d441-bdcc-40a9-8ad9-d287b2d679c4
 
