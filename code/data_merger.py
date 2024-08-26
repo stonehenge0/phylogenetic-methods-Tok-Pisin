@@ -53,6 +53,6 @@ for word in total_vocabulary:
 print(merged_list)
 
 # Writing the merged data to a csv file
-with open('merged_data.csv', 'w') as f:
+with open(data_directory_path + 'merged_data.csv', 'w') as f:
     for line in merged_list:
         f.write(f"{line}\n")
