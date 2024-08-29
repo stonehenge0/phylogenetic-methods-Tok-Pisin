@@ -1,13 +1,18 @@
 English,Bislama,Pijin,Tok Pisin,Torres Creole
 all,olbaot,olgeta,olgeta,ol
 anchor,angka/angkarem,angka,anka,angka
+arrive,kamtru,kasem,kamap/kamap long,
 axe,akis,aks,akis,tamyok
 bad,badfasin/badlak/badnius/badtaem/,nogud,nogut,nogud/bad
 because,bikos/from,bekos,long wanem/bikos/bilong wanem/long wanem/bikos,bikoz
+before,bifo,bifoa/fastaem,bipo,
 blood,blad/blakblad/strongblad,blad,blut,blad
 bone,bun,bon,bun,bon
 book,buk/bukum,buk,buk,buk
 breast,titi/susu,susu/tutu,susu,susu
+bring,bringim,kam/tekem,bringim/kisim . . . i kam,
+but,be/mawea,bat,tasol,
+carry,karem,holem/tekem,karim,
 cause,mekenoes/meksem,mekim,as,meke
 child,pikinini,pikinini,pikinini,piknini
 church,jioj/jos/joshaos,sios,lotu/haus lotu/sios,soes
@@ -23,8 +28,10 @@ ear,sore/dalinan/ia/nadalingan/nadalngan/natalingan,ia,yau/ia/yau/ia,talina/tali
 eye,ae,ae,ai,ay/ai
 father,dadi/fata/olo/papa,dadi,papa,baba
 find,faenem/faenemaot,faendim,painim pinis,paine
+finish,finis/finisim/finiswok,finis,pinis/pinisim,
 fire,faya/faia/blakanis/faea/faerem,faea,paia,paya
 fish,fis/blakfis/fisanjips/fisposentri,fis/bis,pis,pis
+follow,folem/folemap/folfolem,aftarem/folom/falom,bihainim,
 foot,fut,fut,put/lek/fut,thraik
 full,ful/fulap/fulbak/fulbotel/fulmanis/fulmun/fulpaoa/fulspid/fulswing/fultaem/fulwik/fulyia/hablok,ful/fulap,pulap,ful
 girl,gaed/gel,gele,gel/meri,gel
@@ -35,10 +42,13 @@ have,gat/wokdrae,holem,gat,gad
 he,,hem,em,em
 head,hed/hedbol/hedem/hedtakis/hedtija/jifkuk,hed,het,ed
 hear,harem/arem/haremsave,herem,harim,lesen
+hold,damblo/holem/holholem,holem,holim/holim,
 house,floahaos/haos/haosgel,haos,haus,aus
 how,hamas/hao/weswe,hao/olsem wanem,olsem/wanem/olsem wanem,wiskain
 i,mi/aesi/areno,mi,mi,ay
 island,aelan/vanua,aelan,ailan,ailan
+it,hem,hem,em,
+just,jas,nomoa,tasol,
 knee,ni,ni,skru bilon lek/skru,ni
 leaf,lif,lif,lip/lip/lip bilong diwai,lif
 like,laek/laekem/laeklaekem/olsem,laek/laekem,laikim,laik
@@ -47,6 +57,8 @@ lizard,lised/nabiga/nabigae,lisad,palai,gwana
 louse,kuti/laos/nakutu,laos,laus,laus
 make,kaltrae/mek/mekem/mekemap/mekemgud/mekemsua/mekfani/mekful/meksua/mektrabol/paselem/waesem,mekim,wokim,meke
 man,haosboe/mista,man,man/manmeri,man
+middle,medel/medelbus,midol,namel,
+money,mane,selen,mani,
 moon,mun,mun,mun,mun
 mother,mama,mami/mata,mama/mama/mami,ama
 mountain,hil,hil/maonden,maunten,il
@@ -56,12 +68,16 @@ new,5u/bethel/bluwota/bonane/kaldoni/kaledoni/nananara/navilae/niu/niufala/niugi
 night,nat/namb~on/naet,dak/naet/tudak,nait,nait
 no,/nogud/nomata/nomo,nomoa,nogat,launga
 nose,nus,nos,nus,nos
+now,naoia,distaem/nau ba/nau,nau,
 one,wan/wanfala/wansaed/wanwei,wan,wan/wanpela/wan/wanpela,wan
+path,rod/ahal/pat,rod,rot,
 people,pipol/smolnambas,pipol,manmeri/pipel,pipel
 person,man/fala/dabolhed/martinike/pesen/puaman/suang,man,man/man/meri,age/kole/agey
+put,mekmek/putum/putumaot/putumap/putumdaon/saedem/silingim,putim,putim,
 rain,ren,ren,ren,ren
 sea,besdemea/nabiribiri/naeli/nambirimbiri/natalie/natavoa/si/siplen/sisnek,bisdima/si/soltwata,solwara,solwata
 see,lasiri/luk,luk,lukim,luk
+send,imeilem/imelem/sanem/sendem,kam,salim,
 shark,sak,sak,sak,sak
 skin,skin/skinim,skin,skin/sigin,skin
 sky,skae,skae/antap,skai/ples bilong klaut/heven/antap,skai
@@ -70,8 +86,10 @@ snake,binrop/snek/snekbin/snekrop/wanmita,snek,snek,sneik
 some,samfala/samtaem,samfala,sampela,sam
 spear,ginigras/sperem/spersperem/spia/spiagras,spia,spia/supia,spiya
 star,sita/sta,sta,sta,sta
+stay,stebak,stei,sindaun or stap,
 steal,stil/stilim/stilimaot/stilstilim,stilim,stilim,stile
 stone,ston/stonwol,ston,ston,ston
+stop,/stop/stopem,finis,dai (indai)i stop/stopim,
 sun,san,san,san,san
 take,karemaot/profite/tekem/tekemaot/tekembak/tekemdaon/tekerod/tekpat/tektaem,kam/tekem,kisim/bringim,teke
 tell,raosem/talem/taltalem,talem,tokim,tok
@@ -79,6 +97,7 @@ they,olgeta/oli,olgeta,ol,dempla
 think,ting/tingbaot/tingting,ting ting,tingting/ting/tingting,tingk
 time,taem/taemem,taem,taim,taim
 today,tede,tude,tede/tude,tidei
+together,tugeta/wanples,tugeda,wantaim,
 tomorrow,tumora,tumoro,tumaro,thumara
 tongue,tan/tang,tan,tan/tang,tan
 tooth,tut,titi,tit,tit
@@ -88,11 +107,13 @@ turtle,totel,totel,trosel/trausel,totol
 two,tu/tufala/tustori/tutu,tu/tufala,tu/tupela/tu/tupela,tu
 understand,andastan/andastanem/haremsave/ridimsave/save,minim/save,save,sabe
 very,dabolbun/fodei/sapgud/smolsmol/stonej,tumas/fogud,tumas/mo/tru,tumas
+visit,visit/visitim,kasem,go lukim,
 want,wantem,laek/laekem/wande,laik,wande/wanem
 water,wota/welwota/wotafi/wotasaplae,wata,wara,wata
 we,yumi/mitrifala/mitufala/yumitrifala/yumitu/yumitufala,mifala,yumi/mipela,mipla
 what,kanelvet/wanem/wataem/watfo/wedei,wat,wanem,wanem
 wind,waenem/waenemap/wilim/wilimap/win,komburu/wind,win,win
+with,wetem,tugeda/wetim,wantaim,
 yam,redyam/waelu/yamsped,yam,mami/yam,yam
 yes,,yes/ya,ya/yes,wa
 you,yu/taptapin/yufala/yutrifala/yutufala,iu/iu fala,yu/yupela/yu/yupela,yu

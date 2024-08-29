@@ -7,12 +7,12 @@ import csv
 base_language = "English"
 data_directory_path = "../data/"
 data_dict = {
-  "Bislama": ["bislama_asjp.csv"],
-  "Pijin": ["pijin_asjp.csv", "Pijin_100.csv"],
+  "Bislama": ["bislama_asjp.csv", "Bislama_6000.csv"],
+  "Pijin": ["pijin_asjp.csv", "Pijin_100.csv", "pijin_webonary.csv"],
   "Tok Pisin": ["tok_pisin_asjp.csv", "tok_pisin_swadesh_200.csv", "tok_pisin_word_list.csv"],
-  "Torres Creole": ["torres_creole_asjp.csv", "torres_creole_word_list.csv"]
+  "Torres Creole": ["torres_creole_asjp.csv", "torres_creole_word_list.csv", "torres_creole_glosbe.csv"]
 }
-min_translations_for_inclusion = 4
+min_translations_for_inclusion = 3
 
 total_vocabulary = []
 
@@ -59,6 +59,6 @@ merged_list = sorted(merged_list)
 print(merged_list)
 
 # Writing the merged data to a csv file
-with open(data_directory_path + 'merged_data_4.csv', 'w', encoding = 'cp850') as f:
+with open(data_directory_path + 'merged_data_3.csv', 'w', encoding = 'cp850') as f:
     for line in merged_list:
         f.write(f"{line}\n")
