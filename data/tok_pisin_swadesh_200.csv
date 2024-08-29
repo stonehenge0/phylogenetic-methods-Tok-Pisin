@@ -1,19 +1,18 @@
-English,Tok Pisin
-I (1sg),mi
-you (2sg),yu
-he (3sg),em
-she (3sg),em
-it (3sg),em
-we (1pl inclusive),yumi
-we (1pl exclusive),mipela
-you (2pl),yupela
-they (3pl),ol
+I,mi
+you,yu
+he,em
+she,em
+it,em
+we,yumi
+we,mipela
+you,yupela
+they,ol
 this,dispela
 that,dispela
 here,hia
 there,long hap
-who (interrogative),husat
-who (demonstrative),em
+who,husat
+who,em
 what,wanem
 where,we
 where,westap
@@ -51,9 +50,9 @@ narrow,no
 narrow,brait
 thin,bun nating
 woman,meri
-man (adult male),man
-man (human being),man
-man (human being),manmeri
+man,man
+man,man
+man,manmeri
 child,pikinini
 wife,meri
 husband,man
@@ -77,7 +76,7 @@ fruit,pikinini bilong diwai
 fruit,prut
 leaf,lip
 root,kil
-bark (of a tree),skin bilong diwai
+bark,skin bilong diwai
 flower,plaua
 grass,gras
 rope,rop
@@ -86,7 +85,7 @@ skin,skin
 meat,mit
 blood,blut
 bone,bun
-fat (noun),gris
+fat,gris
 egg,kiau
 horn,hon
 tail,tel
@@ -99,7 +98,7 @@ eye,ai
 nose,nus
 mouth,maut
 tooth,tit
-tongue (organ),tang
+tongue,tang
 fingernail,kapa bilong pinga
 foot,put
 leg,lek
@@ -117,62 +116,62 @@ back,bak
 breast,susu
 heart,pam
 liver,liva
-to drink,dringim
-to eat,kaikaim
-to bite,kaikaim
-to suck,susu
-to spit,spet
-to vomit,traut
-to blow,winim
-to breathe,pulim win
-to laugh,lap
-to see,lukim
-to hear,harim
-to know,save
-to think,tingting
-to smell,smelim
-to fear,i pret long
-to sleep,slip
-to live,i gat laip
-to die,dai
-to kill,kilim
-to fight,pait
-to fight,paitim
-to hunt,ranim
-to hit,paitim
-to cut,katim
-to split,katim
-to split,long
-to split,hap
-to dig,digim
-to swim,swim
-to fly,flai
-to walk,wokabaut
-to come,kam
-to lie (as in a bed),slip
-to sit,sindaun
-to stand,sanap
-to turn (intransitive),tanim
-to fall,pundaun
-to give,givim
-to give,gipim
-to hold,holim
-to squeeze,krungutim
-to rub,pilim
-to wash,waswas
-to wash,wasim
-to wipe,waipim
-to pull,pulim
-to push,subim
-to throw,tromoi
-to tie,nektait
-to sew,samapim
-to count,kaunim
-to say,tok
-to sing,singsing
-to play,pilai
-to float,plot
-to swell,solap
+drink,dringim
+eat,kaikaim
+bite,kaikaim
+suck,susu
+spit,spet
+vomit,traut
+blow,winim
+breathe,pulim win
+laugh,lap
+see,lukim
+hear,harim
+know,save
+think,tingting
+smell,smelim
+fear,i pret long
+sleep,slip
+live,i gat laip
+die,dai
+kill,kilim
+fight,pait
+fight,paitim
+hunt,ranim
+hit,paitim
+cut,katim
+split,katim
+split,long
+split,hap
+dig,digim
+swim,swim
+fly,flai
+walk,wokabaut
+come,kam
+lie (as in a bed),slip
+sit,sindaun
+stand,sanap
+turn (intransitive),tanim
+fall,pundaun
+give,givim
+give,gipim
+hold,holim
+squeeze,krungutim
+rub,pilim
+wash,waswas
+wash,wasim
+wipe,waipim
+pull,pulim
+push,subim
+throw,tromoi
+tie,nektait
+sew,samapim
+count,kaunim
+say,tok
+sing,singsing
+play,pilai
+float,plot
+swell,solap
 sun,san
 moon,mun
 star,sta
@@ -195,7 +194,7 @@ ice,ais
 smoke,smok
 fire,paia
 ash,sit bilong paia
-to burn,paia
+burn,paia
 road,rot
 mountain,maunten
 red,retpela
