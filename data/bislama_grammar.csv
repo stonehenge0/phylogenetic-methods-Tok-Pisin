@@ -1,0 +1,197 @@
+Feature id,Feature,Value,Source,Comment
+,,,,
+GB020,Are there definite or specific articles?,1,Meyerhoff 2013,Note that the article marks specificity as opposed to definiteness.
+GB021,Do indefinite nominals commonly have indefinite articles?,0,Crowley 2004,"Not mentioned, judged absent"
+GB022,Are there prenominal articles?,1,Meyerhoff 2013,
+GB023,Are there postnominal articles?,1,Meyerhoff 2013,
+GB024,What is the order of numeral and noun in the NP?,1,Meyerhoff 2013,
+GB025,What is the order of adnominal demonstrative and noun?,2,Crowley 2004: 50,
+GB026,Can adnominal property words occur discontinuously?,0,Meyerhoff 2013,
+GB027,Are nominal conjunction and comitative expressed by different elements?,1,Crowley 2004: 70,
+GB028,Is there a distinction between inclusive and exclusive?,1,Crowley 2004: 46,
+GB030,Is there a gender distinction in independent 3rd person pronouns?,0,Meyerhoff 2013,
+GB031,Is there a dual or unit augmented form (in addition to plural or augmented) for all person categories in the pronoun system?,1,Crowley 2004: 46,
+GB035,Are there three or more distance contrasts in demonstratives?,0,Crowley 2004: 64-65,
+GB036,Do demonstratives show an elevation distinction?,0,Crowley 2004: 64-65,
+GB037,Do demonstratives show a visible-nonvisible distinction?,0,Crowley 2004: 64-65,
+GB038,Are there demonstrative classifiers?,0,Crowley 2004: 64-65,
+GB039,Is there nonphonological allomorphy of noun number markers?,0,Crowley 2004,"Not mentioned, judged absent"
+GB041,Are there several nouns (more than three) which are suppletive for number?,0,Crowley 2004: 51,
+GB042,Is there productive overt morphological singular marking on nouns?,0,Crowley 2004,"Not mentioned, judged absent"
+GB043,Is there productive morphological dual marking on nouns?,0,Crowley 2004,"Not mentioned, judged absent"
+GB044,Is there productive morphological plural marking on nouns?,0,Meyerhoff 2013,"“A minority of speakers, mainly in urban centres, and perhaps only those with high English proficiency, may irregularly use a noun with plural suffix -s, with or without a Bislama determiner).”"
+GB046,Is there an associative plural marker for nouns?,1,Meyerhoff 2013,
+GB047,Is there a productive morphological pattern for deriving an action/state noun from a verb?,0,Crowley 2004: 44-45,
+GB048,Is there a productive morphological pattern for deriving an agent noun from a verb?,0,Crowley 2004: 44-45,
+GB049,Is there a productive morphological pattern for deriving an object noun from a verb?,0,Crowley 2004: 44-45,
+GB051,Is there a gender/noun class system where sex is a factor in class assignment?,0,Meyerhoff 2013,
+GB052,Is there a gender/noun class system where shape is a factor in class assignment?,0,Meyerhoff 2013,
+GB053,Is there a gender/noun class system where animacy is a factor in class assignment?,0,Meyerhoff 2013,
+GB054,Is there a gender/noun class system where plant status is a factor in class assignment?,0,Meyerhoff 2013,
+GB057,Are there numeral classifiers?,0,Meyerhoff 2013,
+GB058,Are there possessive classifiers?,0,Crowley 2004,"Not mentioned, judged absent"
+GB059,Is the adnominal possessive construction different for alienable and inalienable nouns?,0,Crowley 2004: 69,
+GB065,What is the pragmatically unmarked order of adnominal possessor noun and possessed noun?,2,Meyerhoff 2013,
+GB068,"Do core adjectives (defined semantically as property concepts such as value, shape, age, dimension) act like verbs in predicative position?",1,Meyerhoff 2013,
+GB069,"Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?",0,Crowley 2004: 29,
+GB070,Are there morphological cases for non-pronominal core arguments (i.e. S/A/P)?,0,Crowley 2004: 25,
+GB071,Are there morphological cases for pronominal core arguments (i.e. S/A/P)?,1,Crowley 2004: 46,"“Pronouns in Bislama have the same form regardless of whether they appear as the subject or the object of a verb, apart from the distinction between subject olgeta and object ol in alternation with olgeta.”"
+GB072,Are there morphological cases for oblique non-pronominal NPs (i.e. not S/A/P)?,?,Crowley 2004: 130,It is not clear how often the preposition long is shortened to lo or l- and phonologically bound to the following NP.
+GB073,Are there morphological cases for independent oblique personal pronominal arguments (i.e. not S/A/P)?,?,Crowley 2004: 130,It is not clear how often the preposition long is shortened to lo or l- and phonologically bound to the following pronoun.
+GB074,Are there prepositions?,1,Meyerhoff 2013,
+GB075,Are there postpositions?,0,Meyerhoff 2013,
+GB079,"Do verbs have prefixes/proclitics, other than those that only mark A, S or P (do include portmanteau: A & S + TAM)?",0,Crowley 2004: 77,
+GB080,"Do verbs have suffixes/enclitics, other than those that only mark A, S or P (do include portmanteau: A & S + TAM)?",1,Crowley 2004: 28,
+GB081,Is there productive infixation in verbs?,0,Crowley 2004: 77,
+GB082,Is there overt morphological marking of present tense on verbs?,0,Crowley 2004: 77,
+GB083,Is there overt morphological marking on the verb dedicated to past tense?,0,Crowley 2004: 77,
+GB084,Is there overt morphological marking on the verb dedicated to future tense?,0,Crowley 2004: 77,
+GB086,Is a morphological distinction between perfective and imperfective aspect available on verbs?,0,Crowley 2004,"Not mentioned, judged absent"
+GB089,Can the S argument be indexed by a suffix/enclitic on the verb in the simple main clause?,0,Crowley 2004: 77,
+GB090,Can the S argument be indexed by a prefix/proclitic on the verb in the simple main clause?,0,Crowley 2004: 77,
+GB091,Can the A argument be indexed by a suffix/enclitic on the verb in the simple main clause?,0,Crowley 2004: 77,
+GB092,Can the A argument be indexed by a prefix/proclitic on the verb in the simple main clause?,0,Crowley 2004: 77,
+GB093,Can the P argument be indexed by a suffix/enclitic on the verb in the simple main clause?,0,Crowley 2004: 77,
+GB094,Can the P argument be indexed by a prefix/proclitic on the verb in the simple main clause?,0,Crowley 2004: 77,
+GB095,Are variations in marking strategies of core participants based on TAM distinctions?,0,Crowley 2004,"Not mentioned, judged absent"
+GB096,Are variations in marking strategies of core participants based on verb classes?,0,Crowley 2004,"Not mentioned, judged absent"
+GB098,Are variations in marking strategies of core participants based on person distinctions?,0,Crowley 2004,"Not mentioned, judged absent"
+GB099,Can verb stems alter according to the person of a core participant?,0,Crowley 2004,"Not mentioned, judged absent"
+GB103,Is there a benefactive applicative marker on the verb (including indexing)?,0,Crowley 2004: 127,
+GB104,Is there an instrumental applicative marker on the verb (including indexing)?,0,Crowley 2004: 128,
+GB105,Can the recipient in a ditransitive construction be marked like the monotransitive patient?,1,Meyerhoff 2013,“Ditransitive verbs may use either a prepositional object or a double-object construction. The PP is much more common in my spoken corpus.”
+GB107,"Can standard negation be marked by an affix, clitic or modification of the verb?",0,Meyerhoff 2013,
+GB108,Is there directional or locative morphological marking on verbs?,1,Crowley 2004: 82,
+GB109,Is there verb suppletion for participant number?,0,Crowley 2004,"Not mentioned, judged absent"
+GB110,Is there verb suppletion for tense or aspect?,0,Meyerhoff 2013,
+GB111,Are there conjugation classes?,0,Crowley 2004,"Not mentioned, judged absent"
+GB113,Are there verbal affixes or clitics that turn intransitive verbs into transitive ones?,1,Crowley 2004: 28,
+GB114,Is there a phonologically bound reflexive marker on the verb?,1,Crowley 2004: 57-58,
+GB115,Is there a phonologically bound reciprocal marker on the verb?,1,Crowley 2004: 75-76,
+GB116,"Do verbs classify the shape, size or consistency of absolutive arguments by means of incorporated nouns, verbal affixes or suppletive verb stems?",0,Crowley 2004,"Not mentioned, judged absent"
+GB117,Is there a copula for predicate nominals?,?,Meyerhoff 2013,"“There is no universally-used copula verb in Bislama, but se appears to be grammaticalizing as a copula in some parts of the country (it seems to be less common in the north).”"
+GB118,Are there serial verb constructions?,1,Meyerhoff 2013,
+GB119,"Can mood be marked by an inflecting word (""auxiliary verb"")?",0,Crowley 2004: 96-105,
+GB120,"Can aspect be marked by an inflecting word (""auxiliary verb"")?",0,Crowley 2004: 96-105,
+GB121,"Can tense be marked by an inflecting word (""auxiliary verb"")?",0,Crowley 2004: 96-105,
+GB122,Is verb compounding a regular process?,0,Crowley 2004: 76,
+GB123,Are there verb-adjunct (aka light-verb) constructions?,?,Crowley 2004: 76,
+GB124,Is incorporation of nouns into verbs a productive intransitivizing process?,1,Crowley 2004: 122-124,"Crowley describes a verb + noun construction in which the verb is intransitive and the following noun phrase cannot be modified and must occur directly after the verb, which matches our definition of noun incorporation."
+GB126,Is there an existential verb?,1,Meyerhoff 2013,
+GB127,Are different posture verbs used obligatorily depending on an inanimate locatum's shape or position (e.g. 'to lie' vs. 'to stand')?,0,Crowley 2004,"Not mentioned, judged absent"
+GB129,"Is there a notably small number, i.e. about 100 or less, of verb roots in the language?",0,Crowley 2004,"Not mentioned, judged absent"
+GB130,What is the pragmatically unmarked order of S and V in intransitive clauses?,1,Meyerhoff 2013,
+GB131,Is a pragmatically unmarked constituent order verb-initial for transitive clauses?,0,Meyerhoff 2013,
+GB132,Is a pragmatically unmarked constituent order verb-medial for transitive clauses?,1,Meyerhoff 2013,
+GB133,Is a pragmatically unmarked constituent order verb-final for transitive clauses?,0,Meyerhoff 2013,
+GB134,Is the order of constituents the same in main and subordinate clauses?,1,Meyerhoff 2013,
+GB135,Do clausal objects usually occur in the same position as nominal objects?,1,Crowley 2004: 179,
+GB136,Is the order of core argument (i.e. S/A/P) constituents fixed?,1,Crowley 2004: 159,“A very important feature of the grammar of Bislama is the fact that noun phrases can be freely moved … to the beginning of the sentence. … There will typically also be a downward shift in intonation at the end of a fronted noun phrase with the rest of the sentence having the normal intonation of a completely new sentence.”
+GB137,Can standard negation be marked clause-finally?,0,Meyerhoff 2013,
+GB138,Can standard negation be marked clause-initially?,0,Meyerhoff 2013,
+GB139,Is there a difference between imperative (prohibitive) and declarative negation constructions?,0,Meyerhoff 2013,
+GB140,"Is verbal predication marked by the same negator as all of the following types of predication: locational, existential and nominal?",?,Crowley 2004,Not discussed
+GB146,Is there a morpho-syntactic distinction between predicates expressing controlled versus uncontrolled events or states?,?,Crowley 2004,Not discussed
+GB147,Is there a morphological passive marked on the lexical verb?,0,Crowley 2004: 77,
+GB148,Is there a morphological antipassive marked on the lexical verb?,0,Crowley 2004: 77,
+GB149,Is there a morphologically marked inverse on verbs?,0,Crowley 2004: 77,
+GB150,Is there clause chaining?,0,Crowley 2004: 77,
+GB151,"Is there an overt verb marker dedicated to signalling coreference or noncoreference between the subject of one clause and an argument of an adjacent clause (""switch reference"")?",0,Crowley 2004: 77,
+GB152,Is there a morphologically marked distinction between simultaneous and sequential clauses?,0,Crowley 2004: 77,
+GB155,Are causatives formed by affixes or clitics on verbs?,0,Crowley 2004: 171,
+GB156,Is there a causative construction involving an element that is unmistakably grammaticalized from a verb for 'to say'?,0,Crowley 2004: 171,
+GB158,Are verbs reduplicated?,1,Meyerhoff 2013,
+GB159,Are nouns reduplicated?,0,Crowley 2004: 41,Only a few nouns can be reduplicated productively.
+GB160,Are elements apart from verbs or nouns reduplicated?,1,Crowley 2004: 53-54,
+GB165,Is there productive morphological trial marking on nouns?,0,Crowley 2004,"Not mentioned, judged absent"
+GB166,Is there productive morphological paucal marking on nouns?,0,Crowley 2004,"Not mentioned, judged absent"
+GB167,Is there a logophoric pronoun?,0,Crowley 2004,"Not mentioned, judged absent"
+GB170,Can an adnominal property word agree with the noun in gender/noun class?,0,Meyerhoff 2013,
+GB171,Can an adnominal demonstrative agree with the noun in gender/noun class?,0,Meyerhoff 2013,
+GB172,Can an article agree with the noun in gender/noun class?,0,Meyerhoff 2013,
+GB177,"Can the verb carry a marker of animacy of argument, unrelated to any gender/noun class of the argument visible in the NP domain?",0,Crowley 2004: 111,
+GB184,Can an adnominal property word agree with the noun in number?,0,Meyerhoff 2013,
+GB185,Can an adnominal demonstrative agree with the noun in number?,0,Crowley 2004: 64-65,
+GB186,Can an article agree with the noun in number?,1,Meyerhoff 2013,
+GB187,Is there any productive diminutive marking on the noun (exclude marking by system of nominal classification only)?,0,Crowley 2004,"Not mentioned, judged absent"
+GB188,Is there any productive augmentative marking on the noun (exclude marking by system of nominal classification only)?,0,Crowley 2004,"Not mentioned, judged absent"
+GB192,Is there a gender system where a noun's phonological properties are a factor in class assignment?,0,Meyerhoff 2013,
+GB193,What is the order of adnominal property word and noun?,3,Crowley 2004: 29,
+GB196,Is there a male/female distinction in 2nd person independent pronouns?,0,Meyerhoff 2013,
+GB197,Is there a male/female distinction in 1st person independent pronouns?,0,Meyerhoff 2013,
+GB198,Can an adnominal numeral agree with the noun in gender/noun class?,0,Meyerhoff 2013,
+GB203,What is the order of the adnominal collective universal quantifier ('all') and the noun?,1,Crowley 2004: 29,
+GB204,Do collective ('all') and distributive ('every') universal quantifiers differ in their forms or their syntactic positions?,1,Crowley 2004: 29,
+GB250,Can predicative possession be expressed with a transitive 'habeo' verb?,1,Crowley 2004: 119,
+GB252,Can predicative possession be expressed with an S-like possessum and a locative-coded possessor?,0,Crowley 2004,"Not mentioned, judged absent"
+GB253,Can predicative possession be expressed with an S-like possessum and a dative-coded possessor?,0,Crowley 2004,"Not mentioned, judged absent"
+GB254,Can predicative possession be expressed with an S-like possessum and a possessor that is coded like an adnominal possessor?,1,Crowley 2004: 46,
+GB256,Can predicative possession be expressed with an S-like possessor and a possessum that is coded like a comitative argument?,0,Crowley 2004,"Not mentioned, judged absent"
+GB257,Can polar interrogation be marked by intonation only?,1,Crowley 2004: 147-149,
+GB260,Can polar interrogation be indicated by a special word order?,0,Crowley 2004: 147-149,
+GB262,Is there a clause-initial polar interrogative particle?,1,Crowley 2004: 147-149,
+GB263,Is there a clause-final polar interrogative particle?,1,Crowley 2004: 147-149,
+GB264,Is there a polar interrogative particle that most commonly occurs neither clause-initially nor clause-finally?,0,Crowley 2004: 147-149,
+GB265,"Is there a comparative construction that includes a form that elsewhere means 'surpass, exceed'?",0,Meyerhoff 2013,
+GB266,Is there a comparative construction that employs a marker of the standard which elsewhere has a locational meaning?,1,Crowley 2004: 131,
+GB270,Can comparatives be expressed using two conjoined clauses?,0,Meyerhoff 2013,
+GB273,Is there a comparative construction with a standard marker that elsewhere has neither a locational meaning nor a 'surpass/exceed' meaning?,1,Meyerhoff 2013,
+GB275,Is there a bound comparative degree marker on the property word in a comparative construction?,0,Meyerhoff 2013,
+GB276,Is there a non-bound comparative degree marker modifying the property word in a comparative construction?,1,Crowley 2004: 105,
+GB285,Can polar interrogation be marked by a question particle and verbal morphology?,0,Crowley 2004: 147-149,
+GB286,Can polar interrogation be indicated by overt verbal morphology only?,0,Crowley 2004: 147-149,
+GB291,Can polar interrogation be marked by tone?,0,Crowley 2004: 147-149,
+GB296,Is there a phonologically or morphosyntactically definable class of ideophones that includes ideophones depicting imagery beyond sound?,?,Crowley 2004,Not discussed
+GB297,Can polar interrogation be indicated by a V-not-V construction?,0,Crowley 2004: 147-149,
+GB298,"Can standard negation be marked by an inflecting word (""auxiliary verb"")?",0,Meyerhoff 2013,
+GB299,"Can standard negation be marked by a non-inflecting word (""auxiliary particle"")?",1,Meyerhoff 2013,
+GB300,Does the verb for 'give' have suppletive verb forms?,0,Crowley 2004,"Not mentioned, judged absent"
+GB301,Is there an inclusory construction?,1,Meyerhoff 2013,
+GB302,"Is there a phonologically free passive marker (""particle"" or ""auxiliary"")?",0,Crowley 2004: 121,
+GB303,"Is there a phonologically free antipassive marker (""particle"" or ""auxiliary"")?",0,Crowley 2004,"Not mentioned, judged absent"
+GB304,Can the agent be expressed overtly in a passive clause?,0,Crowley 2004,"Not mentioned, judged absent"
+GB305,Is there a phonologically independent reflexive pronoun?,0,Crowley 2004: 57-58,
+GB306,Is there a phonologically independent non-bipartite reciprocal pronoun?,0,Crowley 2004: 75-76,
+GB309,"Are there multiple past or multiple future tenses, distinguishing distance from Time of Reference?",0,Meyerhoff 2013,
+GB312,Is there overt morphological marking on the verb dedicated to mood?,0,Crowley 2004: 77,
+GB313,Are there special adnominal possessive pronouns that are not formed by an otherwise regular process?,0,Meyerhoff 2013,
+GB314,Can augmentative meaning be expressed productively by a shift of gender/noun class?,0,Meyerhoff 2013,
+GB315,Can diminutive meaning be expressed productively by a shift of gender/noun class?,0,Meyerhoff 2013,
+GB316,Is singular number regularly marked in the noun phrase by a dedicated phonologically free element?,?,Crowley 2004: 29,It is not clear how often wan is used to mark singular number.
+GB317,Is dual number regularly marked in the noun phrase by a dedicated phonologically free element?,0,Crowley 2004,"Not mentioned, judged absent"
+GB318,Is plural number regularly marked in the noun phrase by a dedicated phonologically free element?,1,Meyerhoff 2013,
+GB319,Is trial number regularly marked in the noun phrase by a dedicated phonologically free element?,0,Crowley 2004,"Not mentioned, judged absent"
+GB320,Is paucal number regularly marked in the noun phrase by a dedicated phonologically free element?,0,Crowley 2004,"Not mentioned, judged absent"
+GB321,Is there a large class of nouns whose gender/noun class is not phonologically or semantically predictable?,0,Meyerhoff 2013,
+GB322,Is there grammatical marking of direct evidence (perceived with the senses)?,?,Crowley 2004,Not discussed
+GB323,"Is there grammatical marking of indirect evidence (hearsay, inference, etc.)?",?,Crowley 2004,Not discussed
+GB324,"Is there an interrogative verb for content interrogatives (who?, what?, etc.)?",0,Crowley 2004: 150-159,
+GB325,Is there a count/mass distinction in interrogative quantifiers?,0,Crowley 2004: 29,
+GB326,Do (nominal) content interrogatives normally or frequently occur in situ?,1,Meyerhoff 2013,
+GB327,Can the relative clause follow the noun?,1,Meyerhoff 2013,
+GB328,Can the relative clause precede the noun?,0,Meyerhoff 2013,
+GB329,Are there internally-headed relative clauses?,0,Meyerhoff 2013,
+GB330,Are there correlative relative clauses?,0,Meyerhoff 2013,
+GB331,Are there non-adjacent relative clauses?,0,Meyerhoff 2013,
+GB333,Is there a decimal numeral system?,1,Crowley 2004: 54,
+GB334,Is there synchronic evidence for any element of a quinary numeral system?,0,Crowley 2004,"Not mentioned, judged absent"
+GB335,Is there synchronic evidence for any element of a vigesimal numeral system?,0,Crowley 2004,"Not mentioned, judged absent"
+GB336,Is there a body-part tallying system?,0,Crowley 2004,"Not mentioned, judged absent"
+GB400,"Are all person categories neutralized in some voice, tense, aspect, mood and/or negation?",0,Crowley 2004,"Not mentioned, judged absent"
+GB401,Is there a class of patient-labile verbs?,0,Crowley 2004: 28,
+GB402,Does the verb for 'see' have suppletive verb forms?,0,Crowley 2004,"Not mentioned, judged absent"
+GB403,Does the verb for 'come' have suppletive verb forms?,0,Crowley 2004,"Not mentioned, judged absent"
+GB408,Is there any accusative alignment of flagging?,0,Crowley 2004: 109-113,
+GB409,Is there any ergative alignment of flagging?,0,Crowley 2004,"Not mentioned, judged absent"
+GB410,Is there any neutral alignment of flagging?,1,Crowley 2004: 109-113,
+GB415,Is there a politeness distinction in 2nd person forms?,1,Meyerhoff 2013,"“The use of the 2PL form yufala for polite address is only attested with certain traditional respect relationships, e.g. addressing mother’s (classificatory) brother.”"
+GB421,Is there a preposed complementizer in complements of verbs of thinking and/or knowing?,1,Crowley 2004: 183,
+GB422,Is there a postposed complementizer in complements of verbs of thinking and/or knowing?,0,Crowley 2004,"Not mentioned, judged absent"
+GB430,Can adnominal possession be marked by a prefix on the possessor?,1,Crowley 2004: 69,"“The preposition blong itself has a variety of shapes. While it is normally written blong, it is more commonly pronounced simply as blo. Thus, people would normally not say blong mi 'mine' but blo mi instead. This can also be further reduced in everyday pronunciation to just bl- when the following word begins with a vowel rather than a consonant. Thus, blong olgeta 'theirs' will often be pronounced in casual speech as bl-olgeta. Also, given that hem alternates in pronunciation with em, blong hem 'his, hers, its' often appears as either blo-hem, or even bl-em. Such shortened pronunciations, however, are seldom reflected in the written form of the language. “"
+GB431,Can adnominal possession be marked by a prefix on the possessed noun?,0,Meyerhoff 2013,
+GB432,Can adnominal possession be marked by a suffix on the possessor?,0,Meyerhoff 2013,
+GB433,Can adnominal possession be marked by a suffix on the possessed noun?,0,Meyerhoff 2013,
+GB519,"Can mood be marked by a non-inflecting word (""auxiliary particle"")?",1,Meyerhoff 2013,
+GB520,"Can aspect be marked by a non-inflecting word (""auxiliary particle"")?",1,Meyerhoff 2013,
+GB521,"Can tense be marked by a non-inflecting word (""auxiliary particle"")?",0,Meyerhoff 2013,
+GB522,"Can the S or A argument be omitted from a pragmatically unmarked clause when the referent is inferrable from context (""pro-drop"" or ""null anaphora"")?",1,Meyerhoff 2013,
