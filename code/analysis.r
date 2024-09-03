@@ -67,7 +67,7 @@ View(vocab_data_uc)
 library(data.table)
 
 #Loop through all rows of the data manually
-final_distance_matrix <- matrix(0, 5, 5)
+total_distance_matrix <- matrix(0, 5, 5)
 for (x in 1:nrow(vocab_data_uc)) {
 #for (x in 12:12) {
   row = vocab_data_uc[x,]
@@ -95,9 +95,11 @@ for (x in 1:nrow(vocab_data_uc)) {
       smallest_distance_matrix <- local_distances
     }
   }
-  final_distance_matrix <- final_distance_matrix + smallest_distance_matrix
+  #Adding the current distances to the kumulative total distance matrix
+  total_distance_matrix <- total_distance_matrix + smallest_distance_matrix
 }
-rownames(final_distance_matrix) <- names(vocab_data_uc)
-colnames(final_distance_matrix) <- names(vocab_data_uc)
-View(final_distance_matrix)
+#Preparing the total distance matrix to be viewed
+rownames(total_distance_matrix) <- names(vocab_data_uc)
+colnames(total_distance_matrix) <- names(vocab_data_uc)
+View(total_distance_matrix)
 
