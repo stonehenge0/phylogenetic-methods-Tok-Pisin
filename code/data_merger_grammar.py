@@ -1,16 +1,16 @@
 '''
-data_merger.py
-A very simple script that merges multiple word lists into one
+data_merger_grammar.py
+A very simple script that merges multiple grammar lists into one
 '''
 import csv
 
 base_language = "English"
 data_directory_path = "../data/"
 data_dict = {
-  "Bislama": ["bislama_asjp.csv"],
-  "Pijin": ["pijin_asjp.csv", "Pijin_100.csv", "pijin_webonary.csv"],
-  "Tok Pisin": ["tok_pisin_asjp.csv", "tok_pisin_swadesh_200.csv", "tok_pisin_word_list.csv"],
-  "Torres Creole": ["torres_creole_asjp.csv", "torres_creole_word_list.csv", "torres_creole_glosbe.csv"]
+  "Bislama": ["bislama_grammar.csv"],
+  "Pijin": ["pijin_grammar.csv"],
+  "Tok Pisin": ["tok_pisin_grammar.csv"],
+  "Torres Creole": ["torres_creole_grammar.csv"]
 }
 min_translations_for_inclusion = 4
 
@@ -44,8 +44,8 @@ for word in total_vocabulary:
                 line_count = 0
                 for row in csv_reader:
                     if row[0].lower() == word:
-                        if row[1].lower() not in local_word_translations:
-                            local_word_translations.append(row[1].lower())
+                        if row[2].lower() not in local_word_translations and row[2].lower() in ["0", "1"]:
+                            local_word_translations.append(row[2].lower())
         if local_word_translations == []:
             all_word_translations.append("")
         else:
@@ -59,6 +59,6 @@ merged_list = sorted(merged_list)
 print(merged_list)
 
 # Writing the merged data to a csv file
-with open(data_directory_path + 'merged_data_4_nobis.csv', 'w', encoding = 'cp850') as f:
+with open(data_directory_path + 'merged_grammar_4.csv', 'w', encoding = 'cp850') as f:
     for line in merged_list:
         f.write(f"{line}\n")
