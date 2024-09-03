@@ -39,9 +39,11 @@ grammar_data <- read.csv("../data/merged_grammar_5.csv")
 rownames(grammar_data) <- grammar_data$Feature.ID
 grammar_data <- grammar_data[c(3, 4, 5, 6, 7)]
 
+#Transpose data for distance calculation
 grammar_data.transposed <- data.frame(t(grammar_data))
 View(grammar_data.transposed)
 
+#Calculate distances and cluster the results
 grammar_distances <- daisy(grammar_data.transposed, metric = "gower",type = list(symm = c(1:5)))
 grammar_cluster <- hclust(grammar_distances,method="complete")
 plot(grammar_cluster)
@@ -52,6 +54,6 @@ heatmap(as.matrix(grammar_distances),
         trace = "none",            # No trace lines inside the heatmap
         dendrogram = "both",        # Add dendrograms to both axes
         margins = c(10, 10),        # Margins for axis labels
-        labRow = names(grammar_data),    # Row labels (vocabulary)
-        labCol = names(grammar_data),    # Column labels (vocabulary)
+        labRow = names(grammar_data),    # Row labels (grammar)
+        labCol = names(grammar_data),    # Column labels (grammar)
         main = "Heatmap of Levenshtein Distances with Clustering")
