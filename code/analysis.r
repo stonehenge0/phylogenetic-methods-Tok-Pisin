@@ -55,3 +55,47 @@ heatmap(as.matrix(grammar_distances),
         labRow = names(grammar_data),    # Row labels (vocabulary)
         labCol = names(grammar_data),    # Column labels (vocabulary)
         main = "Heatmap of Levenshtein Distances with Clustering")
+
+### Manual calculation of the Levenshtein distance using the uncleaned data and loops
+vocab_data_uc <- read.csv("../data/merged_data_4.csv")
+
+#Set the rownames to be the English equivalents
+rownames(vocab_data_uc) <- vocab_data_uc$English
+View(vocab_data_uc)
+library(data.table)
+
+#Loop through all rows of the data manually
+final_distance_matrix <- matrix(0, 5, 5)
+for (x in 1:nrow(vocab_data_uc)) {
+#for (x in 12:12) {
+  row = vocab_data_uc[x,]
+  #Loop through all entries in a line manually
+  current_row_vocab <- c()
+  for (l in 1:ncol(row)) {
+    #Split up the entries separated by the '/' symbol
+    strings <- strsplit(row[,l], split='/', fixed = TRUE)
+    current_row_vocab <- append(current_row_vocab, strings)
+  }
+  #Replace all empty entries with empty strings to avoid self destruction of program
+  current_row_vocab[lengths(current_row_vocab) == 0] <- ""
+  #Expand the data frame to contain all possible combinations
+  frame <- expand.grid(current_row_vocab)
+  #Placeholder variables for finding the smallest distance matrix
+  smallest_distance_matrix <- c()
+  smallest_sum <- 1000
+  #Calculating the distance matrix for all data combinations
+  for (d in 1:nrow(frame)) {
+    local_row <- unlist(frame[d,], use.names=FALSE)
+    local_distances <- stringdistmatrix(local_row, local_row, method = "lv")
+    #If the new distance matrix is smaller than the previous one, update it
+    if (sum(local_distances) <= smallest_sum) {
+      smallest_sum <- sum(local_distances)
+      smallest_distance_matrix <- local_distances
+    }
+  }
+  final_distance_matrix <- final_distance_matrix + smallest_distance_matrix
+}
+rownames(final_distance_matrix) <- names(vocab_data_uc)
+colnames(final_distance_matrix) <- names(vocab_data_uc)
+View(final_distance_matrix)
+
