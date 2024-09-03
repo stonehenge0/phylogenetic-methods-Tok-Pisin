@@ -57,9 +57,9 @@ gb114,Is there a phonologically bound reflexive marker on the verb?,1,0,0,0
 gb115,Is there a phonologically bound reciprocal marker on the verb?,1,0,0,0
 gb116,Do verbs classify the shape size or consistency of absolutive arguments by means of incorporated nouns verbal affixes or suppletive verb stems?,0,0,0,0
 gb118,Are there serial verb constructions?,1,1,1,1
-gb119,Can mood be marked by an inflecting word ("auxiliary verb")?,0,0,0,0
-gb120,Can aspect be marked by an inflecting word ("auxiliary verb")?,0,0,0,0
-gb121,Can tense be marked by an inflecting word ("auxiliary verb")?,0,0,0,0
+gb119,Can mood be marked by an inflecting word ('auxiliary verb')?,0,0,0,0
+gb120,Can aspect be marked by an inflecting word ('auxiliary verb')?,0,0,0,0
+gb121,Can tense be marked by an inflecting word ('auxiliary verb')?,0,0,0,0
 gb127,Are different posture verbs used obligatorily depending on an inanimate locatum's shape or position (e.g. 'to lie' vs. 'to stand')?,0,0,0,0
 gb129,Is there a notably small number i.e. about 100 or less of verb roots in the language?,0,0,0,0
 gb130,What is the pragmatically unmarked order of S and V in intransitive clauses?,1,1,1,1
@@ -75,7 +75,7 @@ gb147,Is there a morphological passive marked on the lexical verb?,0,0,0,0
 gb148,Is there a morphological antipassive marked on the lexical verb?,0,0,0,0
 gb149,Is there a morphologically marked inverse on verbs?,0,0,0,0
 gb150,Is there clause chaining?,0,0,0,0
-gb151,Is there an overt verb marker dedicated to signalling coreference or noncoreference between the subject of one clause and an argument of an adjacent clause ("switch reference")?,0,0,0,0
+gb151,Is there an overt verb marker dedicated to signalling coreference or noncoreference between the subject of one clause and an argument of an adjacent clause ('switch reference')?,0,0,0,0
 gb152,Is there a morphologically marked distinction between simultaneous and sequential clauses?,0,0,0,0
 gb155,Are causatives formed by affixes or clitics on verbs?,0,1,1,1
 gb156,Is there a causative construction involving an element that is unmistakably grammaticalized from a verb for 'to say'?,0,0,0,0
@@ -100,12 +100,12 @@ gb203,What is the order of the adnominal collective universal quantifier ('all')
 gb204,Do collective ('all') and distributive ('every') universal quantifiers differ in their forms or their syntactic positions?,1,1,0,0
 gb250,Can predicative possession be expressed with a transitive 'habeo' verb?,1,1,1,1
 gb257,Can polar interrogation be marked by intonation only?,1,1,1,1
-gb298,Can standard negation be marked by an inflecting word ("auxiliary verb")?,0,0,0,0
-gb299,Can standard negation be marked by a non-inflecting word ("auxiliary particle")?,1,1,1,1
+gb298,Can standard negation be marked by an inflecting word ('auxiliary verb')?,0,0,0,0
+gb299,Can standard negation be marked by a non-inflecting word ('auxiliary particle')?,1,1,1,1
 gb300,Does the verb for 'give' have suppletive verb forms?,0,0,0,0
 gb301,Is there an inclusory construction?,1,1,1,1
-gb302,Is there a phonologically free passive marker ("particle" or "auxiliary")?,0,0,0,0
-gb303,Is there a phonologically free antipassive marker ("particle" or "auxiliary")?,0,0,0,0
+gb302,Is there a phonologically free passive marker ('particle' or 'auxiliary')?,0,0,0,0
+gb303,Is there a phonologically free antipassive marker ('particle' or 'auxiliary')?,0,0,0,0
 gb304,Can the agent be expressed overtly in a passive clause?,0,0,0,0
 gb306,Is there a phonologically independent non-bipartite reciprocal pronoun?,0,0,0,1
 gb309,Are there multiple past or multiple future tenses distinguishing distance from Time of Reference?,0,0,0,0
@@ -141,6 +141,6 @@ gb430,Can adnominal possession be marked by a prefix on the possessor?,1,0,0,0
 gb431,Can adnominal possession be marked by a prefix on the possessed noun?,0,0,0,0
 gb432,Can adnominal possession be marked by a suffix on the possessor?,0,0,0,0
 gb433,Can adnominal possession be marked by a suffix on the possessed noun?,0,0,0,0
-gb519,Can mood be marked by a non-inflecting word ("auxiliary particle")?,1,1,1,1
-gb520,Can aspect be marked by a non-inflecting word ("auxiliary particle")?,1,1,1,1
-gb521,Can tense be marked by a non-inflecting word ("auxiliary particle")?,0,0,1,1
+gb519,Can mood be marked by a non-inflecting word ('auxiliary particle')?,1,1,1,1
+gb520,Can aspect be marked by a non-inflecting word ('auxiliary particle')?,1,1,1,1
+gb521,Can tense be marked by a non-inflecting word ('auxiliary particle')?,0,0,1,1

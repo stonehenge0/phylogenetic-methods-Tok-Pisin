@@ -28,7 +28,7 @@ for language in data_dict:
                 current_feature = row[0].lower()
                 if current_feature not in total_features:
                     total_features.append(current_feature)
-                    total_descriptions.append(row[1].replace(",", ""))
+                    total_descriptions.append(row[1].replace(",", "").replace('"', "'"))
 
 merged_list = []
 
