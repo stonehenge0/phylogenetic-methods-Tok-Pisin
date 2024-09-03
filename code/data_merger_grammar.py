@@ -8,12 +8,13 @@ base_feature = "Feature ID"
 base_description = "Description"
 data_directory_path = "../data/"
 data_dict = {
+  "English": ["english_grammar.csv"],
   "Bislama": ["bislama_grammar.csv"],
   "Pijin": ["pijin_grammar.csv"],
   "Tok Pisin": ["tok_pisin_grammar.csv"],
   "Torres Creole": ["torres_creole_grammar.csv"]
 }
-min_entries_for_inclusion = 4
+min_entries_for_inclusion = 5
 
 total_features = []
 total_descriptions = []
@@ -62,6 +63,6 @@ merged_list = sorted(merged_list)
 print(merged_list)
 
 # Writing the merged data to a csv file
-with open(data_directory_path + 'merged_grammar_4.csv', 'w', encoding = 'cp850') as f:
+with open(data_directory_path + 'merged_grammar_5.csv', 'w', encoding = 'cp850') as f:
     for line in merged_list:
         f.write(f"{line}\n")
