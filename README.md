@@ -30,3 +30,7 @@ Bislama_6000.csv - https://www.bislama.org/bislama-dictionary
 bislama_asjp.csv
 
 bislama_grammar.csv - https://grambank.clld.org/languages/bisl1239
+
+### English:
+
+english_grammar.csv - https://grambank.clld.org/languages/stan1293
