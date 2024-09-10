@@ -7,7 +7,7 @@ library(stringdist)
 library(gplots)
 
 #Load the vocab data from the merged data file
-vocab_data <- read.csv("../data/merged_data_4_clean.csv")
+vocab_data <- read.csv("../data/merged_data_4_asjp.csv")
 
 #Set the rownames to be the English equivalents
 rownames(vocab_data) <- vocab_data$English
@@ -45,8 +45,10 @@ View(grammar_data.transposed)
 
 #Calculate distances and cluster the results
 grammar_distances <- daisy(grammar_data.transposed, metric = "gower",type = list(symm = c(1:5)))
+library(MASS)
+write.matrix(grammar_distances,file="../results/grammar_distance_matrix.csv",sep=",")
 grammar_cluster <- hclust(grammar_distances,method="complete")
-plot(grammar_cluster)
+plot(grammar_cluster, xlab="Languages", main="Distance Dendrogram", sub="")
 
 heatmap(as.matrix(grammar_distances),
         Rowv = as.dendrogram(grammar_cluster),  # Row clustering
@@ -83,23 +85,36 @@ for (x in 1:nrow(vocab_data_uc)) {
   #Expand the data frame to contain all possible combinations
   frame <- expand.grid(current_row_vocab)
   #Placeholder variables for finding the smallest distance matrix
+  ph_matrix <- matrix(1000, 5, 5)
   smallest_distance_matrix <- c()
-  smallest_sum <- 1000
+  #smallest_sum <- 1000
   #Calculating the distance matrix for all data combinations
   for (d in 1:nrow(frame)) {
     local_row <- unlist(frame[d,], use.names=FALSE)
     local_distances <- stringdistmatrix(local_row, local_row, method = "lv")
     #If the new distance matrix is smaller than the previous one, update it
-    if (sum(local_distances) <= smallest_sum) {
-      smallest_sum <- sum(local_distances)
-      smallest_distance_matrix <- local_distances
+    #if (sum(local_distances) <= smallest_sum) {
+      #smallest_sum <- sum(local_distances)
+      #smallest_distance_matrix <- local_distances
+    #}
+    for (row in 1:5) {
+      for (col in 1:5) {
+        if (local_distances[row, col] <= ph_matrix[row, col]) {
+          ph_matrix[row, col] <- local_distances[row, col]
+        }
+      }
     }
   }
   #Adding the current distances to the kumulative total distance matrix
-  total_distance_matrix <- total_distance_matrix + smallest_distance_matrix
+  total_distance_matrix <- total_distance_matrix + ph_matrix
 }
 #Preparing the total distance matrix to be viewed
 rownames(total_distance_matrix) <- names(vocab_data_uc)
 colnames(total_distance_matrix) <- names(vocab_data_uc)
 View(total_distance_matrix)
+library(MASS)
+write.matrix(total_distance_matrix,file="../results/vocab_distance_matrix.csv",sep=",")
 
+vocab_distances_m <- as.dist(total_distance_matrix)
+vocab_cluster_m <- hclust(vocab_distances_m,method="complete")
+plot(vocab_cluster_m, xlab="Languages", main="Distance Dendrogram", sub="")
