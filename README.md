@@ -1,14 +1,17 @@
 ## 🌍 Overview
 This project investigates the relationships between creole languages in the oceanic region, namely Tok Pisin, Pijin, Bislama, Torres Creole in comparison to English. The analysis is conducted with phylogenetic methods on basis of both lexical and grammatical features of the languages. 
 
-
+![Oceanic Languages](Oceanic_languages.svg)
 
 > By <a href="https://en.wikipedia.org/wiki/User:Kwamikagami" class="extiw" title="wikipedia:User:Kwamikagami">Kwamikagami</a> at <a href="https://en.wikipedia.org/wiki/" class="extiw" title="wikipedia:">English Wikipedia</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=5692090">Link</a>
 
 ## 📊 Our results
-In short: we mainly found the phylogenetic analysis delivered results that were consistent with the (little) historic records we have about the evolution of these languages. Torres Creole seems to have evolved farther from the Melanesian pidgin branch than the rest of the languages, which stay fairly close in both the lexical and grammatical analysis. 
+**Tldr**: we mainly found the phylogenetic analysis delivered results that were consistent with the (little) historic records we have about the evolution of these languages. Torres Creole seems to have evolved farther from the Melanesian pidgin branch than the rest of the languages, which stay fairly close in both the lexical and grammatical analysis. 
 
 You can see a simple clusterexample based on Gower distances of the grammatical features here: 
+
+![grammar dendrogram](results/grammar_distance_dendrogram.png)
+
 
 ## 📚 Data Sources
 
